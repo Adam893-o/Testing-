@@ -13,7 +13,7 @@
 	</div>
 	<div>
 		<h2>Subsection 2<h3>
-		<img src="image1.jpg" alt="An image of Jupiter.">
+		<img src="Jupiter.jpg" alt="An image of planet Jupiter."/>
 	</div>
   </body>
 </html>
