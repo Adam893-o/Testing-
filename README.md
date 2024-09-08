@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Sample Title</title>
+    <title>Inserting image</title>
     <meta charset="utf-8">
-    <meta name="author" content="Adam Sharifeh">
+    <meta name="author" content="Joe Smith">
   </head>
   <body>
 	<h1>My First Website</h1>
@@ -12,8 +12,8 @@
 		<p>Hello World this is my first website</p>
 	</div>
 	<div>
-		<h2>Subsection 2<h3>
-		<img src="Jupiter.jpg" alt="An image of planet Jupiter."/>
+		<h2>Subsection 2</h3>
+		<img src="Jupiter.jpg" alt="An image of planet Jupiter.">
 	</div>
   </body>
 </html>
