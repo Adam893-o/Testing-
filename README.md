@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+	<meta charset ="utf-8">
     <title>Inserting image</title>
-    <meta charset="utf-8">
-    <meta name="author" content="Joe Smith">
   </head>
   <body>
 	<h1>My First Website</h1>
@@ -13,7 +12,7 @@
 	</div>
 	<div>
 		<h2>Subsection 2</h2>
-		<img src="Jupiter.jpg" alt="An image of planet Jupiter.">
+		<img src="testing/images/Image1.jpg" alt="An image of planet Jupiter.">
 	</div>
   </body>
 </html>
